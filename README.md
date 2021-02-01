@@ -1,1 +1,2 @@
 # denpyou_autocalc
+ディレクトリにおいてあるExcel伝票を自動試算するアプリ
