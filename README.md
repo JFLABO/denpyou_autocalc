@@ -27,3 +27,13 @@ JSONファイルが生成される
 
 ファイルの配布と収集のモデル画面
 http://rb.tabirepo.online/fileuploads/new
+
+2021-03-20 11:45:36 +0900
+Stage1：申請
+Stage2：検討
+Stage3：予算執行
+Stage4：処理済み
+Stage5：保存
+
+ファイルのアップロード
+ダウンロード　移行
